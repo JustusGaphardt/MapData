@@ -1,0 +1,226 @@
+[
+  {
+    "value": 20300,
+    "code": "AK"
+  },
+  {
+    "value": 204857,
+    "code": "AL"
+  },
+  {
+    "value": 122811,
+    "code": "AR"
+  },
+  {
+    "value": 0,
+    "code": "AS"
+  },
+  {
+    "value": 259699,
+    "code": "AZ"
+  },
+  {
+    "value": 971851,
+    "code": "CA"
+  },
+  {
+    "value": 130984,
+    "code": "CO"
+  },
+  {
+    "value": 81463,
+    "code": "CT"
+  },
+  {
+    "value": 18087,
+    "code": "DC"
+  },
+  {
+    "value": 26908,
+    "code": "DE"
+  },
+  {
+    "value": 836370,
+    "code": "FL"
+  },
+  {
+    "value": 374181,
+    "code": "GA"
+  },
+  {
+    "value": 5473,
+    "code": "GU"
+  },
+  {
+    "value": 16179,
+    "code": "HI"
+  },
+  {
+    "value": 144922,
+    "code": "IA"
+  },
+  {
+    "value": 72961,
+    "code": "ID"
+  },
+  {
+    "value": 498560,
+    "code": "IL"
+  },
+  {
+    "value": 214509,
+    "code": "IN"
+  },
+  {
+    "value": 103553,
+    "code": "KS"
+  },
+  {
+    "value": 122567,
+    "code": "KY"
+  },
+  {
+    "value": 193372,
+    "code": "LA"
+  },
+  {
+    "value": 172727,
+    "code": "MA"
+  },
+  {
+    "value": 155371,
+    "code": "MD"
+  },
+  {
+    "value": 7888,
+    "code": "ME"
+  },
+  {
+    "value": 238308,
+    "code": "MI"
+  },
+  {
+    "value": 184788,
+    "code": "MN"
+  },
+  {
+    "value": 212441,
+    "code": "MO"
+  },
+  {
+    "value": 100,
+    "code": "MP"
+  },
+  {
+    "value": 127205,
+    "code": "MS"
+  },
+  {
+    "value": 40053,
+    "code": "MT"
+  },
+  {
+    "value": 294860,
+    "code": "NC"
+  },
+  {
+    "value": 55458,
+    "code": "ND"
+  },
+  {
+    "value": 83969,
+    "code": "NE"
+  },
+  {
+    "value": 12699,
+    "code": "NH"
+  },
+  {
+    "value": 256653,
+    "code": "NJ"
+  },
+  {
+    "value": 54881,
+    "code": "NM"
+  },
+  {
+    "value": 110982,
+    "code": "NV"
+  },
+  {
+    "value": 532180,
+    "code": "NY"
+  },
+  {
+    "value": 254974,
+    "code": "OH"
+  },
+  {
+    "value": 138455,
+    "code": "OK"
+  },
+  {
+    "value": 51155,
+    "code": "OR"
+  },
+  {
+    "value": 234296,
+    "code": "PA"
+  },
+  {
+    "value": 38581,
+    "code": "PR"
+  },
+  {
+    "value": 38009,
+    "code": "RI"
+  },
+  {
+    "value": 186391,
+    "code": "SC"
+  },
+  {
+    "value": 56311,
+    "code": "SD"
+  },
+  {
+    "value": 287770,
+    "code": "TN"
+  },
+  {
+    "value": 963019,
+    "code": "TX"
+  },
+  {
+    "value": 134868,
+    "code": "UT"
+  },
+  {
+    "value": 193477,
+    "code": "VA"
+  },
+  {
+    "value": 1405,
+    "code": "VI"
+  },
+  {
+    "value": 2415,
+    "code": "VT"
+  },
+  {
+    "value": 117331,
+    "code": "WA"
+  },
+  {
+    "value": 286380,
+    "code": "WI"
+  },
+  {
+    "value": 28805,
+    "code": "WV"
+  },
+  {
+    "value": 18010,
+    "code": "WY"
+  }
+]
